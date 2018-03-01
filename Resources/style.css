@@ -2,5 +2,14 @@ body {
      font-family: Verdana;
      background-color: black;
      color: white;
-     
+     text-align: center;
+
      }
+
+     .download {
+       color: #00cc99;
+     }
+
+    h6 {
+       color: #8c8c8c;
+       }
