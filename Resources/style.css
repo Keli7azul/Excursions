@@ -1,24 +1,23 @@
+/* body styling */
 body {
      font-family: Verdana;
      background-color: black;
      color: white;
      text-align: center;
      }
-
+/* class download styling */
 .download {
           color: #00cc99;
           }
-
-
-
+/* h6 styling */
 h6 {
    color: #8c8c8c;
    }
-
+/* img styling */
 img {
     padding: 25px;
     }
-
+/* footer styling */
 footer {
        text-align: right;
        color: #8c8c8c;
